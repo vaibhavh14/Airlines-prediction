@@ -101,3 +101,17 @@ Add machine learning model for flight price prediction
 Deploy the dashboard online
 Add real-time flight API data
 Expand analytics with more advanced visualizations
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-03-08 at 2 43 42 AM" src="https://github.com/user-attachments/assets/42d8cdcd-a63c-417c-bb30-69b53789fd8c" />
+
+<img width="1440" height="900" alt="Screenshot 2026-03-08 at 2 43 53 AM" src="https://github.com/user-attachments/assets/b4442388-b75a-4b5f-8d3f-e100946a6806" />
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-03-08 at 2 44 00 AM" src="https://github.com/user-attachments/assets/39f8a33a-a3e0-4da7-a312-79a5384c9c1a" />
+
+
+
+
